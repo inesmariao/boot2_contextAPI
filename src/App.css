@@ -2,11 +2,6 @@
   margin: 0px;
 }
 
-.App {
-  margin-top: 80px;
-}
-
-
 body {
   background-color: rgb(227, 219, 219);
 }
@@ -17,14 +12,8 @@ body {
   color: white;
   display: flex;
   align-items: center;
-  justify-content: space-between;
   padding-right: 25px;
   padding-left: 25px;
-  position: fixed;
-  top: 0;
-  width: 100%;
-  z-index: 1000;
-
 }
 
 .header-nav nav ul{
