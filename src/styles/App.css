@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: rgb(227, 219, 219);
+  background-color: rgb(227, 224, 219);
 }
 
 .header-nav nav{
@@ -72,6 +72,7 @@ body {
 .logo {
   display: flex;
   align-items: center;
+  justify-items: start;
 }
 
 .logo-img {
