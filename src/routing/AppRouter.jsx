@@ -39,7 +39,6 @@ export const AppRouter = () => {
         <Route path='/acerca-de' element={<About />}></Route>
         <Route path='/contacto' element={<Contact />}></Route>
         <Route path='/login' element={<Login />}></Route>
-
         <Route path='*' element={<ErrorPage />}></Route>
       </Routes>
     </Router>
