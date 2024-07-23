@@ -33,6 +33,10 @@ body {
   color: rgb(20, 134, 195);
 }
 
+#text-username {
+  color: fuchsia;
+}
+
 .content{
   width: 70%;
   min-height: 350px;
