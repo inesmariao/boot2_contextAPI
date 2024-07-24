@@ -51,18 +51,20 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 ---
 ## Contribuciones
 
-> [!TIP]:
+> [!TIP]
 > ¡Si te gustó este proyecto, puedes dejarme una estrella en el repositorio! 🌟
 
 Si estás interesado en contribuir al proyecto para hacer mejoras, puedes solicitarme unirte al repositorio como contribuidor, enviándome un correo a inesmaoh@gmail.com.
 
-> **Nota**: Por favor, sigue las guías de contribución y buenas prácticas antes de enviar un Pull Request.
+> [!NOTE]
+> Por favor, sigue las guías de contribución y buenas prácticas antes de enviar un Pull Request.
 
 ## Licencia
 
 Este proyecto está licenciado bajo la [Licencia ISC](https://opensource.org/licenses/ISC). Consulta el archivo LICENSE para más detalles.
 
-> **Importante**: **Copyright 2024. Ing. Inés María Oliveros**
+> [!IMPORTANT]
+> **Copyright 2024. Ing. Inés María Oliveros**
 
 Por la presente se concede permiso para utilizar, copiar, modificar y/o distribuir este software para cualquier fin, con o sin cargo, siempre que el aviso de copyright anterior y este aviso de permiso aparezcan en todas las copias.
 
@@ -70,7 +72,8 @@ EL SOFTWARE SE PROPORCIONA "TAL CUAL" Y EL AUTOR RECHAZA TODA GARANTÍA CON RESP
 
 ## License
 
-> **Important**: **Copyright 2024. Ing. Inés María Oliveros Hernández**
+> [!IMPORTANT]
+> **Copyright 2024. Ing. Inés María Oliveros Hernández**
 
 Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
 
